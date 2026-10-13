@@ -1,0 +1,8 @@
+{
+  "name": "Animaura & Stardima CloudStream Repo",
+  "description": "Provider repository for Animaura (anime/miraculous) and Stardima Arabic Cartoons (cm.cartoon.com.im).",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/itzahmedqr11-01/cloudstream-providers/builds/plugins.json"
+  ]
+}
