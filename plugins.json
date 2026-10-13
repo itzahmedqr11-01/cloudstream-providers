@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Animaura",
+    "internalName": "AnimauraProvider",
+    "version": 1,
+    "description": "Stream anime and Miraculous Ladybug series from Animaura with multi-server playback.",
+    "authors": ["Cloudstream Dev"],
+    "url": "https://raw.githubusercontent.com/itzahmedqr11-01/cloudstream-providers/builds/Animaura.cs3",
+    "iconUrl": "https://www.animaura.xyz/favicon.ico",
+    "apiVersion": 1,
+    "tvTypes": [
+      "Anime",
+      "Cartoon"
+    ],
+    "language": "en"
+  },
+  {
+    "name": "Stardima (كرتون ستارديما)",
+    "internalName": "StardimaProvider",
+    "version": 1,
+    "description": "Arabic dubbed & subbed cartoons, Miraculous Ladybug Arabic dub, Disney & classic series from Stardima (cm.cartoon.com.im).",
+    "authors": ["Cloudstream Dev"],
+    "url": "https://raw.githubusercontent.com/itzahmedqr11-01/cloudstream-providers/builds/Stardima.cs3",
+    "iconUrl": "https://cm.cartoon.com.im/favicon.ico",
+    "apiVersion": 1,
+    "tvTypes": [
+      "Cartoon",
+      "Anime"
+    ],
+    "language": "ar"
+  }
+]
